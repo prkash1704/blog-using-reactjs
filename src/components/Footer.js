@@ -10,7 +10,7 @@ const Footer = () => {
       color="white"
       p="8"
     >
-      2021 © copyright @dosomecoding
+      2022 © copyright @the7one
     </Grid>
   );
 };
